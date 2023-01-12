@@ -19,15 +19,15 @@
 因此，这里提供了一个包含代理节点的Clash启动配置文件[config.yaml](https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/config.yaml) , 这个配置就是所谓的拿来即用的配置了
 
 配置文件下载：
-- GitHub原始链接(可能下载失败)： https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml
-- 使用CDN加速链接(推荐)： https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/config.yaml
+- GitHub原始链接(可能下载失败)： https://raw.githubusercontent.com/learnhard-cn/syly315531/main/clash/config.yaml
+- 使用CDN加速链接(推荐)： https://cdn.jsdelivr.net/gh/learnhard-cn/syly315531@main/clash/config.yaml
 
 
 ### Clash订阅节点更新地址(每小时更新)
 > 代理节点包含ss/ssr/vmess,均来源于网络
 
-- Clash订阅地址(使用CDN链接,有延迟): https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
-- Clash订阅地址(原地址，需要通过代理访问): https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
+- Clash订阅地址(使用CDN链接,有延迟): https://cdn.jsdelivr.net/gh/learnhard-cn/syly315531@main/clash/clash.provider.yaml
+- Clash订阅地址(原地址，需要通过代理访问): https://raw.githubusercontent.com/learnhard-cn/syly315531/main/clash/clash.provider.yaml
 
 
 ### Linux客户端使用方法:
